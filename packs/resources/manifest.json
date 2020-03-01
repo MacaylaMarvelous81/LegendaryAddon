@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Legendary Addon Resources",
+    "description": "Fun features made by TheLegendaryOrb!",
+    "uuid": "0d7aa22d-d04d-4eed-8b31-da230f338963",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for Legendary Addon",
+      "type": "resources",
+      "uuid": "c9736180-64ff-4264-8249-f9a05d1da0ed",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
