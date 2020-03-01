@@ -1,0 +1,13 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "legendaryaddon:ui_opener",
+			"category": "Items"
+		},
+		"components": {
+			"minecraft:max_stack_size": 64
+		}
+	}
+}
